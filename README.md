@@ -1,8 +1,4 @@
-<p align="center"> 
-Profilimi Gezen Kişi Sayısı<br>
-
-  <img src="https://komarev.com/ghpvc/?username=dexycan&color=blueviolet&style=flat-square&label=Profil+Görüntüleme" />
+<p align="center">
+  Profilimi Gezen Kişi Sayısı<br><br>
+  <img src="https://komarev.com/ghpvc/?username=dexycan&label=Profil+Görüntüleme&color=blueviolet&style=flat-square" />
 </p>
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1488251326885396512?hideDiscrim=true)](https://discord.com/users/1488251326885396512)
-
