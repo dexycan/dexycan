@@ -4,5 +4,5 @@
 </p>
 
 <p align="center">
-  discord:theslayofkill
+  discord:duslemek
 </p>
