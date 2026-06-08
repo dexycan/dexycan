@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Merhaba, Ben Dexycan (dreamsandrealities) 👋
+  # Merhaba, Ben Dexycan (dreamsandrealities) 
   
   <br>
 
