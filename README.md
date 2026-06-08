@@ -8,6 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=dexycan&label=Profil+Görüntüleme&color=blueviolet&style=flat-square" />
 
   <br><br>
-  <b>discord:</b> dexycan
+  <b>discord:</b> dreamsandrealities
 
 </div>
