@@ -1,8 +1,13 @@
-<p align="center">
+<div align="center">
+
+  [![Discord Presence](https://lanyard.cnrad.dev/api/1449478980863398072?hideTag=true)](https://discord.com/users/1449478980863398072)
+  
+  <br>
+
   Profilimi Gezen Kişi Sayısı<br><br>
   <img src="https://komarev.com/ghpvc/?username=dexycan&label=Profil+Görüntüleme&color=blueviolet&style=flat-square" />
-</p>
 
-<p align="center">
-  discord:dreamsandrealities
-</p>
+  <br><br>
+  <b>discord:</b> dreamsandrealities
+
+</div>
