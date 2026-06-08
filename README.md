@@ -4,10 +4,12 @@
   
   <br>
 
-  Profilimi Gezen Kişi Sayısı<br><br>
+  Profilimi Gezen Kişi Sayısı<br>
   <img src="https://komarev.com/ghpvc/?username=dexycan&label=Profil+Görüntüleme&color=blueviolet&style=flat-square" />
 
   <br><br>
+  
+ 
   <b>discord:</b> dreamsandrealities
 
 </div>
