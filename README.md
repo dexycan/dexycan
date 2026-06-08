@@ -12,7 +12,7 @@
  
  <br><br>
  
- <b>Discord:</b>Nickname:dexycan Username:dreamsofreality
+ <b>Discord:</b>Discord:dreamsandrealities
 
 </div>
 
