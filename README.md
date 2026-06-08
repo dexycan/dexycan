@@ -12,6 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=dexycan&label=Profil+Görüntüleme&color=blueviolet&style=flat-square" />
 
   <br><br>
-  <b>Discord:</b> dreamsandrealities
+  <b>Discord:</b>dreamsandrealities
 
 </div>
