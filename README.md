@@ -12,7 +12,7 @@
  
  <br><br>
  
- <b>Discord:</b>Discord:dreamsandrealities
+ <b>Discord:</b>dreamsandrealities
 
 </div>
 
