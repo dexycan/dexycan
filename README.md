@@ -12,7 +12,7 @@
  
  <br><br>
  
- <b>Discord:</b>dexycan
+ <b>discord:</b>dexycan
 
 </div>
 
